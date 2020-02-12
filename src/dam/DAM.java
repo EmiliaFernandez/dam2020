@@ -13,7 +13,7 @@ public class DAM {
      * @param args No hay parámetros
      */
     public static void main(String[] args) {
-        System.out.println("hola");
+        System.out.println("hola MUNDO MARAVILLOSO");
     }
 
 }
